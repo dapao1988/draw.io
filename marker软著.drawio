@@ -1,9 +1,133 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.4">
   <diagram name="第 1 页" id="jNl0IgskKeujCXq_mRqM">
-    <mxGraphModel>
+    <mxGraphModel dx="2932" dy="1144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="xZVJLX5tyK6vlufmM6IN-2" value="结束阶段" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1448" width="306" height="208" as="geometry" />
+        </mxCell>
+        <mxCell id="xZVJLX5tyK6vlufmM6IN-3" value="运行阶段" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="20" y="710" width="733" height="688" as="geometry" />
+        </mxCell>
+        <mxCell id="xZVJLX5tyK6vlufmM6IN-4" value="初始化阶段" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="258" y="20" width="330" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="xZVJLX5tyK6vlufmM6IN-5" value="加载感知子系统图像标定参数及模板图片特征库" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="293" y="45" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="xZVJLX5tyK6vlufmM6IN-6" value="初始化定位子系统匹配算法参数与位姿计算模型" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="293" y="173" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="xZVJLX5tyK6vlufmM6IN-7" value="配置渲染子系统渲染引擎与虚拟物体资源" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="293" y="301" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="xZVJLX5tyK6vlufmM6IN-8" value="设定硬件加速子系统加速模式" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="293" y="429" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="xZVJLX5tyK6vlufmM6IN-9" value="启动评价子系统数据采集与误差计算模块" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="293" y="557" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="xZVJLX5tyK6vlufmM6IN-10" value="从摄像头获取实时图像数据输入感知子系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="293" y="735" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="xZVJLX5tyK6vlufmM6IN-11" value="感知子系统处理后传递特征数据给定位子系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="210" y="863" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="xZVJLX5tyK6vlufmM6IN-12" value="定位子系统进行特征匹配与位姿计算" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="210" y="991" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="xZVJLX5tyK6vlufmM6IN-13" value="根据位姿信息调用渲染子系统渲染虚拟物体并输出至显示设备" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="55" y="1119" width="260" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="xZVJLX5tyK6vlufmM6IN-14" value="硬件加速子系统加速定位子系统计算任务" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="365" y="1131" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="xZVJLX5tyK6vlufmM6IN-15" value="将渲染画面与实物画面输入评价子系统计算相对误差并反馈给主程序" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="293" y="1271" width="260" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="xZVJLX5tyK6vlufmM6IN-16" value="关闭各子系统运行进程" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="313" y="1473" width="220" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="xZVJLX5tyK6vlufmM6IN-17" value="保存重要数据与日志信息" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="305" y="1577" width="236" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="xZVJLX5tyK6vlufmM6IN-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=20;" edge="1" parent="1" source="xZVJLX5tyK6vlufmM6IN-5" target="xZVJLX5tyK6vlufmM6IN-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xZVJLX5tyK6vlufmM6IN-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=20;" edge="1" parent="1" source="xZVJLX5tyK6vlufmM6IN-6" target="xZVJLX5tyK6vlufmM6IN-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xZVJLX5tyK6vlufmM6IN-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=20;" edge="1" parent="1" source="xZVJLX5tyK6vlufmM6IN-7" target="xZVJLX5tyK6vlufmM6IN-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xZVJLX5tyK6vlufmM6IN-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=20;" edge="1" parent="1" source="xZVJLX5tyK6vlufmM6IN-8" target="xZVJLX5tyK6vlufmM6IN-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xZVJLX5tyK6vlufmM6IN-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.3;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=20;" edge="1" parent="1" source="xZVJLX5tyK6vlufmM6IN-10" target="xZVJLX5tyK6vlufmM6IN-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="838" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xZVJLX5tyK6vlufmM6IN-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=20;" edge="1" parent="1" source="xZVJLX5tyK6vlufmM6IN-11" target="xZVJLX5tyK6vlufmM6IN-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xZVJLX5tyK6vlufmM6IN-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.14;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=20;" edge="1" parent="1" source="xZVJLX5tyK6vlufmM6IN-12" target="xZVJLX5tyK6vlufmM6IN-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="185" y="1094" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xZVJLX5tyK6vlufmM6IN-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.86;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=20;" edge="1" parent="1" source="xZVJLX5tyK6vlufmM6IN-12" target="xZVJLX5tyK6vlufmM6IN-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="495" y="1094" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xZVJLX5tyK6vlufmM6IN-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.09;rounded=0;fontSize=20;" edge="1" parent="1" source="xZVJLX5tyK6vlufmM6IN-13" target="xZVJLX5tyK6vlufmM6IN-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="185" y="1246" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xZVJLX5tyK6vlufmM6IN-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=20;" edge="1" parent="1" source="xZVJLX5tyK6vlufmM6IN-16" target="xZVJLX5tyK6vlufmM6IN-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xZVJLX5tyK6vlufmM6IN-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=20;" edge="1" parent="1" source="xZVJLX5tyK6vlufmM6IN-9" target="xZVJLX5tyK6vlufmM6IN-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xZVJLX5tyK6vlufmM6IN-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.09;entryX=1;entryY=0.95;rounded=0;fontSize=20;" edge="1" parent="1" source="xZVJLX5tyK6vlufmM6IN-15" target="xZVJLX5tyK6vlufmM6IN-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="1246" />
+              <mxPoint x="660" y="838" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xZVJLX5tyK6vlufmM6IN-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=20;" edge="1" parent="1" source="xZVJLX5tyK6vlufmM6IN-15" target="xZVJLX5tyK6vlufmM6IN-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
