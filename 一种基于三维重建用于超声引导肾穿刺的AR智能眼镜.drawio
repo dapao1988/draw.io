@@ -4,142 +4,142 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="cHHEZfBLSV4DBNPNlgIl-1" value="几何测量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="cHHEZfBLSV4DBNPNlgIl-1" value="几何测量" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="385" y="1388" width="226" height="231" as="geometry" />
         </mxCell>
-        <mxCell id="cHHEZfBLSV4DBNPNlgIl-2" value="点云优化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="cHHEZfBLSV4DBNPNlgIl-2" value="点云优化" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="377" y="957" width="242" height="358" as="geometry" />
         </mxCell>
-        <mxCell id="cHHEZfBLSV4DBNPNlgIl-3" value="3DGS建模" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="cHHEZfBLSV4DBNPNlgIl-3" value="3DGS建模" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="369" y="526" width="258" height="358" as="geometry" />
         </mxCell>
-        <mxCell id="cHHEZfBLSV4DBNPNlgIl-4" value="稀疏重建" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="cHHEZfBLSV4DBNPNlgIl-4" value="稀疏重建" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="369" y="222" width="258" height="231" as="geometry" />
         </mxCell>
-        <mxCell id="cHHEZfBLSV4DBNPNlgIl-5" value="输入数据" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="cHHEZfBLSV4DBNPNlgIl-5" value="输入数据" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="20" y="20" width="480" height="129" as="geometry" />
         </mxCell>
-        <mxCell id="cHHEZfBLSV4DBNPNlgIl-6" value="多视角肾脏高清图像" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="cHHEZfBLSV4DBNPNlgIl-5">
+        <mxCell id="cHHEZfBLSV4DBNPNlgIl-6" value="多视角肾脏高清图像" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="cHHEZfBLSV4DBNPNlgIl-5" vertex="1">
           <mxGeometry x="43" y="46" width="204" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="cHHEZfBLSV4DBNPNlgIl-7" value="相机位姿参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="cHHEZfBLSV4DBNPNlgIl-5">
+        <mxCell id="cHHEZfBLSV4DBNPNlgIl-7" value="相机位姿参数" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="cHHEZfBLSV4DBNPNlgIl-5" vertex="1">
           <mxGeometry x="297" y="46" width="156" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="cHHEZfBLSV4DBNPNlgIl-8" value="输入数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="cHHEZfBLSV4DBNPNlgIl-8" value="输入数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="550" y="58" width="124" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="cHHEZfBLSV4DBNPNlgIl-9" value="稀疏重建" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="cHHEZfBLSV4DBNPNlgIl-9" value="稀疏重建" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="664" y="247" width="124" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="cHHEZfBLSV4DBNPNlgIl-10" value="3DGS建模" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="cHHEZfBLSV4DBNPNlgIl-10" value="3DGS建模" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="662" y="374" width="129" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="cHHEZfBLSV4DBNPNlgIl-11" value="点云优化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="cHHEZfBLSV4DBNPNlgIl-11" value="点云优化" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="664" y="551" width="124" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="cHHEZfBLSV4DBNPNlgIl-12" value="几何测量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="cHHEZfBLSV4DBNPNlgIl-12" value="几何测量" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="664" y="678" width="124" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="cHHEZfBLSV4DBNPNlgIl-13" value="COLMAP/SfM算法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="cHHEZfBLSV4DBNPNlgIl-13" value="COLMAP/SfM算法" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="406" y="247" width="184" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="cHHEZfBLSV4DBNPNlgIl-14" value="生成初始稀疏点云" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="cHHEZfBLSV4DBNPNlgIl-14" value="生成初始稀疏点云" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="404" y="374" width="188" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="cHHEZfBLSV4DBNPNlgIl-15" value="初始化高斯点参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="cHHEZfBLSV4DBNPNlgIl-15" value="初始化高斯点参数" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="404" y="551" width="188" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="cHHEZfBLSV4DBNPNlgIl-16" value="自适应密度控制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="cHHEZfBLSV4DBNPNlgIl-16" value="自适应密度控制" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="412" y="678" width="172" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="cHHEZfBLSV4DBNPNlgIl-17" value="可微渲染与优化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="cHHEZfBLSV4DBNPNlgIl-17" value="可微渲染与优化" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="412" y="805" width="172" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="cHHEZfBLSV4DBNPNlgIl-18" value="高密度区域分裂" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="cHHEZfBLSV4DBNPNlgIl-18" value="高密度区域分裂" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="412" y="982" width="172" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="cHHEZfBLSV4DBNPNlgIl-19" value="低贡献点修剪" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="cHHEZfBLSV4DBNPNlgIl-19" value="低贡献点修剪" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="420" y="1109" width="156" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="cHHEZfBLSV4DBNPNlgIl-20" value="坐标梯度优化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="cHHEZfBLSV4DBNPNlgIl-20" value="坐标梯度优化" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="420" y="1236" width="156" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="cHHEZfBLSV4DBNPNlgIl-21" value="用户交互选点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="cHHEZfBLSV4DBNPNlgIl-21" value="用户交互选点" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="420" y="1413" width="156" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="cHHEZfBLSV4DBNPNlgIl-22" value="欧氏距离计算" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="cHHEZfBLSV4DBNPNlgIl-22" value="欧氏距离计算" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="420" y="1540" width="156" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="cHHEZfBLSV4DBNPNlgIl-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="cHHEZfBLSV4DBNPNlgIl-8" target="cHHEZfBLSV4DBNPNlgIl-9">
+        <mxCell id="cHHEZfBLSV4DBNPNlgIl-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=0.99;entryX=0.5;entryY=0;rounded=0;fontSize=16;" parent="1" source="cHHEZfBLSV4DBNPNlgIl-8" target="cHHEZfBLSV4DBNPNlgIl-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="726" y="186" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cHHEZfBLSV4DBNPNlgIl-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="cHHEZfBLSV4DBNPNlgIl-9" target="cHHEZfBLSV4DBNPNlgIl-10">
+        <mxCell id="cHHEZfBLSV4DBNPNlgIl-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=16;" parent="1" source="cHHEZfBLSV4DBNPNlgIl-9" target="cHHEZfBLSV4DBNPNlgIl-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cHHEZfBLSV4DBNPNlgIl-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="cHHEZfBLSV4DBNPNlgIl-10" target="cHHEZfBLSV4DBNPNlgIl-11">
+        <mxCell id="cHHEZfBLSV4DBNPNlgIl-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=16;" parent="1" source="cHHEZfBLSV4DBNPNlgIl-10" target="cHHEZfBLSV4DBNPNlgIl-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cHHEZfBLSV4DBNPNlgIl-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="cHHEZfBLSV4DBNPNlgIl-11" target="cHHEZfBLSV4DBNPNlgIl-12">
+        <mxCell id="cHHEZfBLSV4DBNPNlgIl-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=16;" parent="1" source="cHHEZfBLSV4DBNPNlgIl-11" target="cHHEZfBLSV4DBNPNlgIl-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cHHEZfBLSV4DBNPNlgIl-27" value="多视角图像+位姿" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="cHHEZfBLSV4DBNPNlgIl-8" target="cHHEZfBLSV4DBNPNlgIl-13">
+        <mxCell id="cHHEZfBLSV4DBNPNlgIl-27" value="多视角图像+位姿" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=0.99;entryX=0.5;entryY=0;rounded=0;fontSize=16;" parent="1" source="cHHEZfBLSV4DBNPNlgIl-8" target="cHHEZfBLSV4DBNPNlgIl-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="498" y="186" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cHHEZfBLSV4DBNPNlgIl-28" value="初始点云" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="cHHEZfBLSV4DBNPNlgIl-13" target="cHHEZfBLSV4DBNPNlgIl-14">
+        <mxCell id="cHHEZfBLSV4DBNPNlgIl-28" value="初始点云" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=16;" parent="1" source="cHHEZfBLSV4DBNPNlgIl-13" target="cHHEZfBLSV4DBNPNlgIl-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cHHEZfBLSV4DBNPNlgIl-29" value="μ_i, Σ_i初始化" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="cHHEZfBLSV4DBNPNlgIl-14" target="cHHEZfBLSV4DBNPNlgIl-15">
+        <mxCell id="cHHEZfBLSV4DBNPNlgIl-29" value="μ_i, Σ_i初始化" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=16;" parent="1" source="cHHEZfBLSV4DBNPNlgIl-14" target="cHHEZfBLSV4DBNPNlgIl-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cHHEZfBLSV4DBNPNlgIl-30" value="参数化高斯" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="cHHEZfBLSV4DBNPNlgIl-15" target="cHHEZfBLSV4DBNPNlgIl-16">
+        <mxCell id="cHHEZfBLSV4DBNPNlgIl-30" value="参数化高斯" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=16;" parent="1" source="cHHEZfBLSV4DBNPNlgIl-15" target="cHHEZfBLSV4DBNPNlgIl-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cHHEZfBLSV4DBNPNlgIl-31" value="分裂/修剪" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="cHHEZfBLSV4DBNPNlgIl-16" target="cHHEZfBLSV4DBNPNlgIl-17">
+        <mxCell id="cHHEZfBLSV4DBNPNlgIl-31" value="分裂/修剪" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=16;" parent="1" source="cHHEZfBLSV4DBNPNlgIl-16" target="cHHEZfBLSV4DBNPNlgIl-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cHHEZfBLSV4DBNPNlgIl-32" value="光度一致性损失" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="cHHEZfBLSV4DBNPNlgIl-17" target="cHHEZfBLSV4DBNPNlgIl-18">
+        <mxCell id="cHHEZfBLSV4DBNPNlgIl-32" value="光度一致性损失" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=16;" parent="1" source="cHHEZfBLSV4DBNPNlgIl-17" target="cHHEZfBLSV4DBNPNlgIl-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cHHEZfBLSV4DBNPNlgIl-33" value="调整点云密度" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="cHHEZfBLSV4DBNPNlgIl-18" target="cHHEZfBLSV4DBNPNlgIl-19">
+        <mxCell id="cHHEZfBLSV4DBNPNlgIl-33" value="调整点云密度" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=16;" parent="1" source="cHHEZfBLSV4DBNPNlgIl-18" target="cHHEZfBLSV4DBNPNlgIl-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cHHEZfBLSV4DBNPNlgIl-34" value="优化坐标μ_i" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="cHHEZfBLSV4DBNPNlgIl-19" target="cHHEZfBLSV4DBNPNlgIl-20">
+        <mxCell id="cHHEZfBLSV4DBNPNlgIl-34" value="优化坐标μ_i" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=16;" parent="1" source="cHHEZfBLSV4DBNPNlgIl-19" target="cHHEZfBLSV4DBNPNlgIl-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cHHEZfBLSV4DBNPNlgIl-35" value="显式点云输出" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="cHHEZfBLSV4DBNPNlgIl-20" target="cHHEZfBLSV4DBNPNlgIl-21">
+        <mxCell id="cHHEZfBLSV4DBNPNlgIl-35" value="显式点云输出" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=16;" parent="1" source="cHHEZfBLSV4DBNPNlgIl-20" target="cHHEZfBLSV4DBNPNlgIl-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cHHEZfBLSV4DBNPNlgIl-36" value="选择P1, P2" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="cHHEZfBLSV4DBNPNlgIl-21" target="cHHEZfBLSV4DBNPNlgIl-22">
+        <mxCell id="cHHEZfBLSV4DBNPNlgIl-36" value="选择P1, P2" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=16;" parent="1" source="cHHEZfBLSV4DBNPNlgIl-21" target="cHHEZfBLSV4DBNPNlgIl-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
